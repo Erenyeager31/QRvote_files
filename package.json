@@ -1,0 +1,25 @@
+{
+  "name": "qr-voting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qrvoting.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html5-qrcode": "^2.3.4",
+    "firebase": "^9.15.0",
+    "otp-input-react":"^0.3.0",
+    "react":"^18.2.0",
+    "react-hot-toast":"^2.4.0",
+    "react-dom":"^18.2.0",
+    "react-icons":"^4.7.1",
+    "react-phone-input-2":"^2.15.1",
+    "react-scripts":"5.0.1",
+    "web-vitals":"^2.1.4"
+  }
+}
